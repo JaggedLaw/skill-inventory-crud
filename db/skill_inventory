@@ -1,0 +1,13 @@
+---
+skills:
+- id: 2
+  title: knitting
+- id: 3
+  title: knitting
+- id: 4
+  title: new skill
+- id: 5
+  title: anything
+- id: 6
+  title: way new
+total: 6
